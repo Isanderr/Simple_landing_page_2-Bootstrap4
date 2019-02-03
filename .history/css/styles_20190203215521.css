@@ -183,27 +183,7 @@ padding: 3% 2%;
 @media only screen and (max-width: 1086px) {
 
 h1.big-heading{
-    font-size: 2rem;
-}
-
-h2 {
-    font-size: 1.5rem;
-}
-
-h2.testimonial-text{
-    font-size: 1.5rem;
-}
-
-h3.cta-heading{
-    font-size: 2rem;
-}
-
-.navbar-brand {
-    font-size: 1.5rem;
-}
-
-#pricing {
-    padding-top: 10%;
+    font-size: 2.5rem;
 }
 
     #title {
