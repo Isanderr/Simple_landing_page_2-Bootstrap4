@@ -83,7 +83,7 @@ p {
 /* title img */
 
 .title-img {
-    max-width: 75%;
+    max-width: : 75%;
     transform: rotate(15deg);
     position: absolute;
     right: 20%;
